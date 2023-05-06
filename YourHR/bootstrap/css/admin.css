@@ -1,0 +1,25 @@
+.btn-primary {
+    background-color: #1e3799;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+body {
+    background-color: aliceblue;
+}
+input {
+    padding: 5px;
+    margin: 5px;
+}
+.text-center {
+    text-align: center;
+}
+
+.login {
+    width: 20%;
+    border: 1px solid gray;
+    margin: 5% auto;
+    padding: 2%;
+    background-color: #fef5cf;
+}

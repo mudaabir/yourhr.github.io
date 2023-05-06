@@ -1,0 +1,40 @@
+@media only screen and (max-width: 576px) {
+	.col-sm-10 {
+		max-width: 100%;
+	}
+}
+
+img{
+    width: 100px;
+    height: 50px;
+}
+footer {
+    background-color: #757373;
+    padding: 50px;
+    margin-top: 50px;
+    width: auto;
+}
+
+footer h3 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer ul li {
+    margin-bottom: 10px;
+}
+
+footer ul li a {
+    color: #333;
+}
+
+footer hr {
+    border-top: 1px solid #ccc;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
